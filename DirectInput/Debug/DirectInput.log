@@ -1,0 +1,4 @@
+﻿  Direct3D.cpp
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  DirectInput.vcxproj -> D:\十一届\C++开发\DirectInput\Debug\DirectInput.exe
+  DirectInput.vcxproj -> D:\十一届\C++开发\DirectInput\Debug\DirectInput.pdb (Partial PDB)
